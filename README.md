@@ -1,5 +1,4 @@
 # 🚀 Rocket Movies
-![image](https://github.com/VictorrMatt/Rocket-Movies-Web/assets/98140122/d1722c5e-7973-4ad6-9a2f-74738dbb55d2)
 
 ## Back-End:
 
@@ -77,10 +76,6 @@ O back-end é uma aplicação Node.js que permite aos usuários cadastrar inform
 - ``JWT`` (JSON Web Tokens): Autenticação e segurança.
 - ``Multer``: Manipulação de uploads de imagens, como imagens de perfil.
 - ``Cors``: Habilitação de requisições entre origens (CORS) no servidor.
-
-### 📝 Resumo
-
-*"Rocket Movies" é um projeto completo que consiste em uma aplicação de gerenciamento de informações de filmes, composta por um back-end desenvolvido em Node.js e um front-end construído em React.js e Styled-components. O projeto oferece recursos de autenticação, gerenciamento de usuários e filmes, segurança, e armazenamento de informações. "Rocket Movies" é uma solução eficaz para armazenar e gerenciar informações sobre filmes, e é resultado do curso Explorer da Rocketseat.*
 
 Para acessar o site do "Rocket Movies", você pode [clicar aqui](https://rocketmoovies.netlify.app/).
 
