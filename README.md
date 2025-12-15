@@ -1,11 +1,6 @@
 # 🚀 Rocket Movies
 ![image](https://github.com/VictorrMatt/Rocket-Movies-Web/assets/98140122/d1722c5e-7973-4ad6-9a2f-74738dbb55d2)
 
-
-### 🔨 Visão Geral
-
-"Rocket Movies" é um projeto desenvolvido após os módulos 08 e 09 do curso Explorer, oferecido pela plataforma de ensino Rocketseat. Este projeto consiste em duas partes complementares: o back-end e o front-end.
-
 ## Back-End:
 
 O back-end é uma aplicação Node.js que permite aos usuários cadastrar informações sobre filmes. Os recursos do back-end incluem:
